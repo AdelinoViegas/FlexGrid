@@ -55,7 +55,6 @@ img#logo {
 #menu {
 	font-size: 20px;
 	grid-gap: 0.99rem;
-
 }
 
 #menu li {
@@ -95,7 +94,6 @@ h1 {
 	margin: 10px;
 }
 
-
 #grid {
 	display: grid;
 	grid-template-columns: repeat(3, 1fr);
@@ -134,7 +132,6 @@ div#video img {
 div#item div {
 	margin-bottom: 10px;
 }
-
 
 #grid3 {
 	display: grid;
