@@ -161,7 +161,7 @@ div#item div {
 .grid3-item p {
 	background-color: gray;
 	padding: 10px;
-	color: #ffffff;
+	color: #fff;
 	grid-column: 1;
 	grid-row: 2/3;
 	align-self: flex-end;
